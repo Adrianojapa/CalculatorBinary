@@ -1,2 +1,2 @@
 # CalculatorBinary
- Calculos de Decimal para Binario e o inverso
+ Calculos de Decimal para Binário e o respectivo calculo inverso.
